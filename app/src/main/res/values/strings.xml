@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">notify</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="title_activity_report_unsafe_area">ReportUnsafeArea</string>
+    <string-array name="Gender">
+        <item>All</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="Gender1">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
